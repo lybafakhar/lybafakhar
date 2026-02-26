@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Lyba Fakhar
 
-<!--
-**lybafakhar/lybafakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student (5th Semester)  
+💻 Flutter Developer | Python | HTML | C++  
+🌍 Open to Remote Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a motivated Computer Science student with hands-on experience in Flutter app development and web technologies. I enjoy building real-world applications and continuously improving my technical skills.
+
+---
+
+## 🛠️ Skills
+- Flutter & Dart
+- HTML & CSS
+- Python
+- C++
+- Firebase (Basic)
+- Git & GitHub
+
+---
+
+## 📱 Projects
+
+### 🚗 Car Rental Flutter App
+- Complete car rental mobile application
+- Car listing & booking system
+- Firebase authentication integration
+
+### 📝 Sticky Notes App
+- Create, edit, delete notes
+- Grid & list layout
+- Clean UI design
+
+---
+
+## 📫 Contact Me
+- Email: your-email@gmail.com
+- LinkedIn: https://linkedin.com/in/yourprofile
