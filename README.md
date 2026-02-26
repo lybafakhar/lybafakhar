@@ -36,5 +36,5 @@ I am a motivated Computer Science student with hands-on experience in Flutter ap
 ---
 
 ## 📫 Contact Me
-- Email: your-email@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: ayatamina786@gmail.com
+
